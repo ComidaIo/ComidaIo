@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-<div>
-  ![Minho's GitHub stats](https://github-readme-stats.vercel.app/api?username=minho-lee0716&show_icons=true&theme=radical)
-</div>
+![ComidaIo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ComidaIo&show_icons=true&theme=radical)
+
 
 <!--
 **ComidaIo/ComidaIo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
