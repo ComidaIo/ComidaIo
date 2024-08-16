@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![ComidaIo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ComidaIo&count_private=true&show_icons=true&theme=cobalt&hide=stars,contribs)
+![ComidaIo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ComidaIo&include_all_commits=true&show_icons=true&theme=cobalt&hide=stars,contribs)
 
 
 <!--
